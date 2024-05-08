@@ -18,3 +18,12 @@ ou
 
       
       python nom_du_fichier.py
+
+
+#doc 
+
+https://github.com/Ankit404butfound/PyWhatKit/wiki
+
+https://www.lambdatest.com/blog/automate-whatsapp-messages-using-python/
+
+https://pypi.org/project/pywhatkit/
